@@ -16,9 +16,9 @@ Learn everything you need to about the subject of this `Tutorialspoint` project.
 ## Topics
 ```
 JUnit Tutorial
-[ ] Home
-[ ] Overview
-[ ] Environment Setup
+[x] Home
+[x] Overview
+[x] Environment Setup
 [ ] Test Framework
 [ ] Basic Usage
 [ ] API
